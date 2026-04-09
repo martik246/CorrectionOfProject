@@ -51,16 +51,34 @@ Install dependencies:
 npm install
 ```
 
+Or in regular Windows `cmd`:
+
+```bat
+install.cmd
+```
+
 Start Expo:
 
 ```bash
 npx expo start
 ```
 
+Or:
+
+```bat
+start-expo.cmd
+```
+
 Run web:
 
 ```bash
 npx expo start --web
+```
+
+Recommended for your setup:
+
+```bat
+start-web.cmd
 ```
 
 Build web export:
